@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    background-color: rgb(141, 149, 158);
+}
+#header{
+    text-align: center;
+    background-color: rgb(114, 114, 114);
+    color: bisque;
+    padding-top: 1em;
+    padding-bottom: 1.5em;   
+}
+#menu{
+   
+    text-align: center;
+    color: black;
+    margin-left: 20px;
+    background-color:rgb(187, 145, 145);
+}
+th{
+    text-align: center;
+    width: 22.25%;
+    
+    border:1ch solid black;
+}
+
+#content1{
+    height: 500px;
+    width: 80%;
+    background-color: rgb(228, 235, 137);
+    float: left;
+}
+table{
+    border-collapse: collapse;
+}
+#content2{
+    float: right;
+    height: 500px;
+    width: 20%;
+    background-color: #fff;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+#footer{
+    height: 10vh;
+}
